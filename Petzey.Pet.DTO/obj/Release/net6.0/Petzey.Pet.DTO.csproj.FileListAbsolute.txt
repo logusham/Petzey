@@ -1,0 +1,12 @@
+C:\Users\Gokul\OneDrive\Desktop\Dotnet-A\API\Petzey.Pet.Service\Petzey.Pet.DTO\bin\Release\net6.0\Petzey.Pet.DTO.deps.json
+C:\Users\Gokul\OneDrive\Desktop\Dotnet-A\API\Petzey.Pet.Service\Petzey.Pet.DTO\bin\Release\net6.0\Petzey.Pet.DTO.dll
+C:\Users\Gokul\OneDrive\Desktop\Dotnet-A\API\Petzey.Pet.Service\Petzey.Pet.DTO\bin\Release\net6.0\Petzey.Pet.DTO.pdb
+C:\Users\Gokul\OneDrive\Desktop\Dotnet-A\API\Petzey.Pet.Service\Petzey.Pet.DTO\obj\Release\net6.0\Petzey.Pet.DTO.csproj.AssemblyReference.cache
+C:\Users\Gokul\OneDrive\Desktop\Dotnet-A\API\Petzey.Pet.Service\Petzey.Pet.DTO\obj\Release\net6.0\Petzey.Pet.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gokul\OneDrive\Desktop\Dotnet-A\API\Petzey.Pet.Service\Petzey.Pet.DTO\obj\Release\net6.0\Petzey.Pet.DTO.AssemblyInfoInputs.cache
+C:\Users\Gokul\OneDrive\Desktop\Dotnet-A\API\Petzey.Pet.Service\Petzey.Pet.DTO\obj\Release\net6.0\Petzey.Pet.DTO.AssemblyInfo.cs
+C:\Users\Gokul\OneDrive\Desktop\Dotnet-A\API\Petzey.Pet.Service\Petzey.Pet.DTO\obj\Release\net6.0\Petzey.Pet.DTO.csproj.CoreCompileInputs.cache
+C:\Users\Gokul\OneDrive\Desktop\Dotnet-A\API\Petzey.Pet.Service\Petzey.Pet.DTO\obj\Release\net6.0\Petzey.Pet.DTO.dll
+C:\Users\Gokul\OneDrive\Desktop\Dotnet-A\API\Petzey.Pet.Service\Petzey.Pet.DTO\obj\Release\net6.0\refint\Petzey.Pet.DTO.dll
+C:\Users\Gokul\OneDrive\Desktop\Dotnet-A\API\Petzey.Pet.Service\Petzey.Pet.DTO\obj\Release\net6.0\Petzey.Pet.DTO.pdb
+C:\Users\Gokul\OneDrive\Desktop\Dotnet-A\API\Petzey.Pet.Service\Petzey.Pet.DTO\obj\Release\net6.0\ref\Petzey.Pet.DTO.dll

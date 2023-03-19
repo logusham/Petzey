@@ -1,0 +1,2 @@
+2023-01-17 10:31:29.5077|0|ERROR|Petzey.Pet.API.Controllers.PetController|An exception has been raised that is likely due to a transient failure. Consider enabling transient error resiliency by adding 'EnableRetryOnFailure' to the 'UseSqlServer' call. 
+2023-01-17 10:32:32.3081|0|ERROR|Petzey.Pet.API.Controllers.PetController|An exception has been raised that is likely due to a transient failure. Consider enabling transient error resiliency by adding 'EnableRetryOnFailure' to the 'UseSqlServer' call. 

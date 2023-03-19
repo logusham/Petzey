@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Petzey.Pet.API.props" />
+</Project>

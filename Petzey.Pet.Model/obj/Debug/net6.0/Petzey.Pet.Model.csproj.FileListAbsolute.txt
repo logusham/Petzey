@@ -1,0 +1,12 @@
+C:\Users\Gokul\OneDrive\Desktop\Dotnet-A\API\Petzey.Pet.Service\Petzey.Pet.Model\bin\Debug\net6.0\Petzey.Pet.Model.deps.json
+C:\Users\Gokul\OneDrive\Desktop\Dotnet-A\API\Petzey.Pet.Service\Petzey.Pet.Model\bin\Debug\net6.0\Petzey.Pet.Model.dll
+C:\Users\Gokul\OneDrive\Desktop\Dotnet-A\API\Petzey.Pet.Service\Petzey.Pet.Model\bin\Debug\net6.0\Petzey.Pet.Model.pdb
+C:\Users\Gokul\OneDrive\Desktop\Dotnet-A\API\Petzey.Pet.Service\Petzey.Pet.Model\obj\Debug\net6.0\Petzey.Pet.Model.csproj.AssemblyReference.cache
+C:\Users\Gokul\OneDrive\Desktop\Dotnet-A\API\Petzey.Pet.Service\Petzey.Pet.Model\obj\Debug\net6.0\Petzey.Pet.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gokul\OneDrive\Desktop\Dotnet-A\API\Petzey.Pet.Service\Petzey.Pet.Model\obj\Debug\net6.0\Petzey.Pet.Model.AssemblyInfoInputs.cache
+C:\Users\Gokul\OneDrive\Desktop\Dotnet-A\API\Petzey.Pet.Service\Petzey.Pet.Model\obj\Debug\net6.0\Petzey.Pet.Model.AssemblyInfo.cs
+C:\Users\Gokul\OneDrive\Desktop\Dotnet-A\API\Petzey.Pet.Service\Petzey.Pet.Model\obj\Debug\net6.0\Petzey.Pet.Model.csproj.CoreCompileInputs.cache
+C:\Users\Gokul\OneDrive\Desktop\Dotnet-A\API\Petzey.Pet.Service\Petzey.Pet.Model\obj\Debug\net6.0\Petzey.Pet.Model.dll
+C:\Users\Gokul\OneDrive\Desktop\Dotnet-A\API\Petzey.Pet.Service\Petzey.Pet.Model\obj\Debug\net6.0\refint\Petzey.Pet.Model.dll
+C:\Users\Gokul\OneDrive\Desktop\Dotnet-A\API\Petzey.Pet.Service\Petzey.Pet.Model\obj\Debug\net6.0\Petzey.Pet.Model.pdb
+C:\Users\Gokul\OneDrive\Desktop\Dotnet-A\API\Petzey.Pet.Service\Petzey.Pet.Model\obj\Debug\net6.0\ref\Petzey.Pet.Model.dll

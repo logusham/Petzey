@@ -1,0 +1,160 @@
+2023-01-13 10:11:41.5420 Info Message Template Auto Format enabled
+2023-01-13 10:11:41.6483 Info Loading assembly: NLog.Web.AspNetCore
+2023-01-13 10:11:42.1703 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-01-13 10:11:42.1703 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-01-13 10:11:42.1703 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-01-13 10:11:42.1994 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=C:\Users\Gokul\OneDrive\Desktop\Dotnet-A\API\Petzey.Pet.Service\Petzey.Pet.API\NLog.config
+2023-01-13 10:12:22.4876 Info AppDomain Shutting down. LogFactory closing...
+2023-01-13 10:12:22.5237 Info LogFactory has been closed.
+2023-01-13 10:41:30.3163 Info Message Template Auto Format enabled
+2023-01-13 10:41:30.3410 Info Loading assembly: NLog.Web.AspNetCore
+2023-01-13 10:41:30.4883 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-01-13 10:41:30.4883 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-01-13 10:41:30.4883 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-01-13 10:41:30.5199 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=C:\Users\Gokul\OneDrive\Desktop\Dotnet-A\API\Petzey.Pet.Service\Petzey.Pet.API\NLog.config
+2023-01-13 10:47:15.3077 Info AppDomain Shutting down. LogFactory closing...
+2023-01-13 10:47:15.3824 Info LogFactory has been closed.
+2023-01-13 10:57:16.2852 Info Message Template Auto Format enabled
+2023-01-13 10:57:16.3801 Info Loading assembly: NLog.Web.AspNetCore
+2023-01-13 10:57:16.5587 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-01-13 10:57:16.5623 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-01-13 10:57:16.5623 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-01-13 10:57:16.6187 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=C:\Users\Gokul\OneDrive\Desktop\Dotnet-A\API\Petzey.Pet.Service\Petzey.Pet.API\NLog.config
+2023-01-13 10:57:40.4269 Info Message Template Auto Format enabled
+2023-01-13 10:57:40.4515 Info Loading assembly: NLog.Web.AspNetCore
+2023-01-13 10:57:40.6012 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-01-13 10:57:40.6012 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-01-13 10:57:40.6012 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-01-13 10:57:40.6387 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=C:\Users\Gokul\OneDrive\Desktop\Dotnet-A\API\Petzey.Pet.Service\Petzey.Pet.API\NLog.config
+2023-01-13 11:07:40.2168 Info Message Template Auto Format enabled
+2023-01-13 11:07:40.2332 Info Loading assembly: NLog.Web.AspNetCore
+2023-01-13 11:07:40.3859 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-01-13 11:07:40.3893 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-01-13 11:07:40.3893 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-01-13 11:07:40.4232 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=C:\Users\Gokul\OneDrive\Desktop\Dotnet-A\API\Petzey.Pet.Service\Petzey.Pet.API\NLog.config
+2023-01-13 15:33:03.5439 Info Message Template Auto Format enabled
+2023-01-13 15:33:03.5849 Info Loading assembly: NLog.Web.AspNetCore
+2023-01-13 15:33:03.8222 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-01-13 15:33:03.8222 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-01-13 15:33:03.8222 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-01-13 15:33:03.8500 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=C:\Users\Gokul\OneDrive\Desktop\Dotnet-A\API\Petzey.Pet.Service\Petzey.Pet.API\NLog.config
+2023-01-17 10:30:21.5012 Info Message Template Auto Format enabled
+2023-01-17 10:30:21.5388 Info Loading assembly: NLog.Web.AspNetCore
+2023-01-17 10:30:21.7685 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-01-17 10:30:21.7685 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-01-17 10:30:21.7685 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-01-17 10:30:21.7969 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=C:\Users\Gokul\OneDrive\Desktop\Dotnet-A\API\Petzey.Pet.Service\Petzey.Pet.API\NLog.config
+2023-01-17 11:52:25.9716 Info Message Template Auto Format enabled
+2023-01-17 11:52:26.0106 Info Loading assembly: NLog.Web.AspNetCore
+2023-01-17 11:52:26.3869 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-01-17 11:52:26.3869 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-01-17 11:52:26.3895 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-01-17 11:52:26.4114 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=C:\Users\Gokul\OneDrive\Desktop\Dotnet-A\API\Petzey.Pet.Service\Petzey.Pet.API\NLog.config
+2023-01-17 21:33:10.0439 Info Message Template Auto Format enabled
+2023-01-17 21:33:10.3784 Info Loading assembly: NLog.Web.AspNetCore
+2023-01-17 21:33:10.7612 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-01-17 21:33:10.7612 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-01-17 21:33:10.7733 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-01-17 21:33:10.8204 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=C:\Users\Gokul\OneDrive\Desktop\Dotnet-A\API\Petzey.Pet.Service\Petzey.Pet.API\NLog.config
+2023-01-18 10:21:26.5830 Info Message Template Auto Format enabled
+2023-01-18 10:21:26.5932 Info Loading assembly: NLog.Web.AspNetCore
+2023-01-18 10:21:27.0249 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-01-18 10:21:27.0249 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-01-18 10:21:27.0249 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-01-18 10:21:27.0521 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=C:\Users\Gokul\OneDrive\Desktop\Dotnet-A\API\Petzey.Pet.Service\Petzey.Pet.UnitTest\bin\Debug\net6.0\NLog.config
+2023-01-18 10:21:27.0607 Info Configuration initialized.
+2023-01-18 10:21:27.0900 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.1.1.1522. Product version: 5.1.1+b1175f1ad0ce4a4a9d1f4b61538202071d7be513. GlobalAssemblyCache: False
+2023-01-18 10:21:27.1910 Info AppDomain Shutting down. LogFactory closing...
+2023-01-18 10:21:27.2071 Info LogFactory has been closed.
+2023-01-18 10:21:30.3278 Info Message Template Auto Format enabled
+2023-01-18 10:21:30.3278 Info Loading assembly: NLog.Web.AspNetCore
+2023-01-18 10:21:30.3878 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-01-18 10:21:30.3878 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-01-18 10:21:30.3891 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-01-18 10:21:30.4047 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=C:\Users\Gokul\OneDrive\Desktop\Dotnet-A\API\Petzey.Pet.Service\Petzey.Pet.UnitTest\bin\Debug\net6.0\fine-code-coverage\build-output\NLog.config
+2023-01-18 10:21:30.4047 Info Configuration initialized.
+2023-01-18 10:21:30.4227 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.1.1.1522. Product version: 5.1.1+b1175f1ad0ce4a4a9d1f4b61538202071d7be513. GlobalAssemblyCache: False
+2023-01-18 10:21:30.5109 Info AppDomain Shutting down. LogFactory closing...
+2023-01-18 10:21:30.5255 Info LogFactory has been closed.
+2023-01-21 17:09:34.0285 Info Message Template Auto Format enabled
+2023-01-21 17:09:34.0893 Info Loading assembly: NLog.Web.AspNetCore
+2023-01-21 17:09:34.5501 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-01-21 17:09:34.5501 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-01-21 17:09:34.5501 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-01-21 17:09:34.5765 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=C:\Users\Gokul\OneDrive\Desktop\Dotnet-A\API\Petzey.Pet.Service\Petzey.Pet.API\NLog.config
+2023-01-21 17:10:07.2069 Info Message Template Auto Format enabled
+2023-01-21 17:10:07.2574 Info Loading assembly: NLog.Web.AspNetCore
+2023-01-21 17:10:07.4560 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-01-21 17:10:07.4560 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-01-21 17:10:07.4560 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-01-21 17:10:07.5070 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=C:\Users\Gokul\OneDrive\Desktop\Dotnet-A\API\Petzey.Pet.Service\Petzey.Pet.API\NLog.config
+2023-01-21 17:12:56.4591 Info Message Template Auto Format enabled
+2023-01-21 17:12:56.4859 Info Loading assembly: NLog.Web.AspNetCore
+2023-01-21 17:12:56.8670 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-01-21 17:12:56.8670 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-01-21 17:12:56.8670 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-01-21 17:12:56.8908 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=C:\Users\Gokul\OneDrive\Desktop\Dotnet-A\API\Petzey.Pet.Service\Petzey.Pet.API\NLog.config
+2023-01-21 17:16:07.4738 Info Message Template Auto Format enabled
+2023-01-21 17:16:07.5072 Info Loading assembly: NLog.Web.AspNetCore
+2023-01-21 17:16:07.9015 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-01-21 17:16:07.9015 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-01-21 17:16:07.9062 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-01-21 17:16:07.9339 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=C:\Users\Gokul\OneDrive\Desktop\Dotnet-A\API\Petzey.Pet.Service\Petzey.Pet.API\NLog.config
+2023-02-01 20:56:16.6580 Info Message Template Auto Format enabled
+2023-02-01 20:56:16.7105 Info Loading assembly: NLog.Web.AspNetCore
+2023-02-01 20:56:17.1613 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-02-01 20:56:17.1613 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-02-01 20:56:17.1613 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-02-01 20:56:17.2976 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=C:\Users\Gokul\OneDrive\Desktop\Dotnet-A\API\Petzey.Pet.Service\Petzey.Pet.API\NLog.config
+2023-02-01 20:57:04.7576 Info Message Template Auto Format enabled
+2023-02-01 20:57:04.7742 Info Loading assembly: NLog.Web.AspNetCore
+2023-02-01 20:57:04.9698 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-02-01 20:57:04.9698 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-02-01 20:57:04.9698 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-02-01 20:57:05.0155 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=C:\Users\Gokul\OneDrive\Desktop\Dotnet-A\API\Petzey.Pet.Service\Petzey.Pet.API\NLog.config
+2023-02-27 11:37:01.5010 Info Message Template Auto Format enabled
+2023-02-27 11:37:01.5190 Info Loading assembly: NLog.Web.AspNetCore
+2023-02-27 11:37:01.8391 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-02-27 11:37:01.8391 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-02-27 11:37:01.8391 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-02-27 11:37:01.8631 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=C:\Users\Gokul\OneDrive\Desktop\Dotnet-A\API\Petzey.Pet.Service\Petzey.Pet.API\NLog.config
+2023-03-01 12:00:31.7283 Info Message Template Auto Format enabled
+2023-03-01 12:00:31.7442 Info Loading assembly: NLog.Web.AspNetCore
+2023-03-01 12:00:32.0270 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-03-01 12:00:32.0270 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-03-01 12:00:32.0270 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-03-01 12:00:32.0477 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=C:\Users\Gokul\OneDrive\Desktop\Dotnet-A\API\Petzey.Pet.Service\Petzey.Pet.API\NLog.config
+2023-03-01 12:03:07.5762 Info AppDomain Shutting down. LogFactory closing...
+2023-03-01 12:03:07.5941 Info LogFactory has been closed.
+2023-03-04 09:58:30.4959 Info Message Template Auto Format enabled
+2023-03-04 09:58:30.5185 Info Loading assembly: NLog.Web.AspNetCore
+2023-03-04 09:58:30.8727 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-03-04 09:58:30.8727 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-03-04 09:58:30.8897 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-03-04 09:58:30.9174 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=C:\Users\Gokul\OneDrive\Desktop\Dotnet-A\API\Petzey.Pet.Service\Petzey.Pet.API\NLog.config
+2023-03-04 09:59:24.2515 Info AppDomain Shutting down. LogFactory closing...
+2023-03-04 09:59:24.2686 Info LogFactory has been closed.
+2023-03-07 11:01:00.1873 Info Message Template Auto Format enabled
+2023-03-07 11:01:00.2036 Info Loading assembly: NLog.Web.AspNetCore
+2023-03-07 11:01:01.0029 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-03-07 11:01:01.0029 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-03-07 11:01:01.0094 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-03-07 11:01:01.0763 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=C:\Users\Gokul\OneDrive\Desktop\Dotnet-A\API\Petzey.Pet.Service\Petzey.Pet.API\NLog.config
+2023-03-07 11:03:56.7406 Info AppDomain Shutting down. LogFactory closing...
+2023-03-07 11:03:56.7557 Info LogFactory has been closed.
+2023-03-07 11:06:01.3649 Info Message Template Auto Format enabled
+2023-03-07 11:06:01.3779 Info Loading assembly: NLog.Web.AspNetCore
+2023-03-07 11:06:01.4724 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-03-07 11:06:01.4724 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-03-07 11:06:01.4724 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-03-07 11:06:01.4909 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=C:\Users\Gokul\OneDrive\Desktop\Dotnet-A\API\Petzey.Pet.Service\Petzey.Pet.API\NLog.config
+2023-03-07 11:07:31.4860 Info AppDomain Shutting down. LogFactory closing...
+2023-03-07 11:07:31.4995 Info LogFactory has been closed.
+2023-03-19 10:35:39.6751 Info Message Template Auto Format enabled
+2023-03-19 10:35:39.6948 Info Loading assembly: NLog.Web.AspNetCore
+2023-03-19 10:35:40.1033 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-03-19 10:35:40.1033 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-03-19 10:35:40.1033 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-03-19 10:35:40.1220 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=56, FilePath=C:\Users\Gokul\OneDrive\Desktop\Dotnet-A\API\Petzey.Pet.Service\Petzey.Pet.API\NLog.config
+2023-03-19 10:36:39.0598 Info AppDomain Shutting down. LogFactory closing...
+2023-03-19 10:36:39.0780 Info LogFactory has been closed.

@@ -1,0 +1,17 @@
+C:\Users\Gokul\OneDrive\Desktop\Dotnet-A\API\Petzey.Pet.Service\Petzey.Pet.Repository\bin\Release\net6.0\Petzey.Pet.Repository.deps.json
+C:\Users\Gokul\OneDrive\Desktop\Dotnet-A\API\Petzey.Pet.Service\Petzey.Pet.Repository\bin\Release\net6.0\Petzey.Pet.Repository.runtimeconfig.json
+C:\Users\Gokul\OneDrive\Desktop\Dotnet-A\API\Petzey.Pet.Service\Petzey.Pet.Repository\bin\Release\net6.0\Petzey.Pet.Repository.dll
+C:\Users\Gokul\OneDrive\Desktop\Dotnet-A\API\Petzey.Pet.Service\Petzey.Pet.Repository\bin\Release\net6.0\Petzey.Pet.Repository.pdb
+C:\Users\Gokul\OneDrive\Desktop\Dotnet-A\API\Petzey.Pet.Service\Petzey.Pet.Repository\bin\Release\net6.0\Petzey.Pet.Model.dll
+C:\Users\Gokul\OneDrive\Desktop\Dotnet-A\API\Petzey.Pet.Service\Petzey.Pet.Repository\bin\Release\net6.0\Petzey.Pet.Model.pdb
+C:\Users\Gokul\OneDrive\Desktop\Dotnet-A\API\Petzey.Pet.Service\Petzey.Pet.Repository\obj\Release\net6.0\Petzey.Pet.Repository.csproj.AssemblyReference.cache
+C:\Users\Gokul\OneDrive\Desktop\Dotnet-A\API\Petzey.Pet.Service\Petzey.Pet.Repository\obj\Release\net6.0\Petzey.Pet.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gokul\OneDrive\Desktop\Dotnet-A\API\Petzey.Pet.Service\Petzey.Pet.Repository\obj\Release\net6.0\Petzey.Pet.Repository.AssemblyInfoInputs.cache
+C:\Users\Gokul\OneDrive\Desktop\Dotnet-A\API\Petzey.Pet.Service\Petzey.Pet.Repository\obj\Release\net6.0\Petzey.Pet.Repository.AssemblyInfo.cs
+C:\Users\Gokul\OneDrive\Desktop\Dotnet-A\API\Petzey.Pet.Service\Petzey.Pet.Repository\obj\Release\net6.0\Petzey.Pet.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Gokul\OneDrive\Desktop\Dotnet-A\API\Petzey.Pet.Service\Petzey.Pet.Repository\obj\Release\net6.0\Petzey.Pet.Repository.csproj.CopyComplete
+C:\Users\Gokul\OneDrive\Desktop\Dotnet-A\API\Petzey.Pet.Service\Petzey.Pet.Repository\obj\Release\net6.0\Petzey.Pet.Repository.dll
+C:\Users\Gokul\OneDrive\Desktop\Dotnet-A\API\Petzey.Pet.Service\Petzey.Pet.Repository\obj\Release\net6.0\refint\Petzey.Pet.Repository.dll
+C:\Users\Gokul\OneDrive\Desktop\Dotnet-A\API\Petzey.Pet.Service\Petzey.Pet.Repository\obj\Release\net6.0\Petzey.Pet.Repository.pdb
+C:\Users\Gokul\OneDrive\Desktop\Dotnet-A\API\Petzey.Pet.Service\Petzey.Pet.Repository\obj\Release\net6.0\Petzey.Pet.Repository.genruntimeconfig.cache
+C:\Users\Gokul\OneDrive\Desktop\Dotnet-A\API\Petzey.Pet.Service\Petzey.Pet.Repository\obj\Release\net6.0\ref\Petzey.Pet.Repository.dll
